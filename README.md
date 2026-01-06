@@ -1,5 +1,6 @@
-**📊 Zepto Data Analysis Project (SQL)
-📌 Project Overview**
+**📊 Zepto Data Analysis Project (SQL)**
+
+**📌 Project Overview**
 This project focuses on analyzing Zepto product data using SQL to extract meaningful business insights.
 The goal is to perform data exploration, data cleaning, and business-driven analysis to support decision-making related to pricing, discounts, inventory, and revenue.
 
