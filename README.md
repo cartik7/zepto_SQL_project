@@ -7,11 +7,17 @@ The goal is to perform data exploration, data cleaning, and business-driven anal
 
 🗂 **Dataset Description**
 The dataset contains product-level information from Zepto, including:
+
 •	Product identifiers
+
 •	Categories
+
 •	Pricing and discount details
+
 •	Stock availability
+
 •	Product weight and quantity
+
 
 **Table Structure**
 
@@ -27,24 +33,39 @@ OutOfStock              → Stock status (True/False)
 quantity                → Quantity per unit 
 
 **🛠 Tools & Technologies**
+
 •	SQL (PostgreSQL)
+
 •	Database Management
+
 •	Data Cleaning & Transformation
+
 •	Business Analytics
 
 **🔍 Data Exploration**
+
 The initial exploration includes:
+
 •	Total row count
+
 •	Sample data inspection
+
 •	Null value detection
+
 •	Identifying unique product categories
+
 •	Stock availability analysis
+
 •	Detecting duplicate product names
 
 **🧹 Data Cleaning Steps**
+
 •	Removed products with MRP = 0
+
 •	Converted price values from paise to rupees
+
 •	Ensured consistency in pricing columns
+
 •	Validated null and invalid records
 
 **📈 Business Insight Queries** 
@@ -77,16 +98,25 @@ Bulk (> 800g)
 Measured total inventory weight per category to assist logistics and warehouse planning.
 
 **📊 Key Insights**
+
 •	Certain categories consistently offer higher discounts.
+
 •	Premium products face frequent stock-out issues.
+
 •	Bulk products contribute significantly to inventory weight.
+
 •	Price-per-gram analysis highlights strong value products.
 
 **🚀 Conclusion**
+
 This project demonstrates how SQL can be effectively used for real-world data analysis, covering:
+
 •	Data cleaning
+
 •	Exploratory analysis
+
 •	Business-oriented insights
+
 It showcases strong SQL fundamentals and analytical thinking.
 
 
